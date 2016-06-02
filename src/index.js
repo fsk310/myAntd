@@ -2,8 +2,8 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import {Button,Icon, Checkbox} from 'antd';
 
-import 'antdcss';
-import './define.css';
+/*import 'antdcss';
+import './define.css';*/
 
 function onChange(e) {
     console.log(e.target.checked);
